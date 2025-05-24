@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Sidi Deng / Ph.D."
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Sidi Deng"
 description              : &description "personal description"
 url                      : https://sidideng.github.io/academia/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "sidideng.github.io/academia"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr. Sidi Deng"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Ann Arbor, Michigan, USA"
+  employer         : "University of Michigan"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sidideng@umich.edu" 
 
   # Academic websites
   academia         : # URL
