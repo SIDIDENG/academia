@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Sidi Deng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Traditional Industrial and Systems Engineering for a Sustainable Material Future"
   location         : "Ann Arbor, Michigan, USA"
   employer         : "University of Michigan"
   uri              : # URL
@@ -34,12 +34,12 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=HEnNcXUAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0003-9234-1952"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Sidi-Deng"
   scopus           : # URL
 
   # Repositories and software development
