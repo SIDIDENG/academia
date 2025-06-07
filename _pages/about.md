@@ -10,7 +10,9 @@ redirect_from:
 Education
 ======
 **Ph.D in Industrial Engineering, Purdue University, 2018 - 2023**
-Advisors: Dr. John W. Sutherland & Dr. Yuehwern Yih 
+
+Advisors: Dr. John W. Sutherland & Dr. Yuehwern Yih
+
 **M.S. in Industrial Engineering, Purdue University, 2015 - 2017**
 
 
@@ -23,7 +25,7 @@ Academic Experience
 
 [Supervisor: The Users]: #
 
-**Environmental and Ecological Engineering, Purdue University**, West Lafayette, IN, USA (2023 - 2025)
+**Environmental and Ecological Engineering, Purdue University**, West Lafayette, IN, USA (2018 - 2023)
 * Graduate Research Assistant
 * Graduate Teaching Assistant
 * Postdoctoral Researcher
