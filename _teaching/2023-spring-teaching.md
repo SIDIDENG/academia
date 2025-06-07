@@ -4,6 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-spring-teaching
 venue: "Environmental and Ecological Engineering, Purdue University"
+date: 2023-01-01
 location: "West Lafayette, IN, USA"
 ---
 
