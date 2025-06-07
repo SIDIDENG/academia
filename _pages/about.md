@@ -18,19 +18,25 @@ Advisors: Dr. John W. Sutherland & Dr. Yuehwern Yih
 
 Academic Experience
 ======
-**Mechanical Engineering, University of Michigan**, Ann Arbor, MI, USA (2023 - 2025)
+**Mechanical Engineering, University of Michigan (2023 - 2025)**
+
+G.G. Brown Laboratory, Ann Arbor, MI, USA
 * Postdoctoral Research Fellow
     
 [Duties includes: Updates and improvements to template]: #
 
 [Supervisor: The Users]: #
 
-**Environmental and Ecological Engineering, Purdue University**, West Lafayette, IN, USA (2018 - 2023)
+**Environmental and Ecological Engineering, Purdue University (2018 - 2023)**
+
+Potter Engineering Center, West Lafayette, IN, USA
 * Graduate Research Assistant
 * Graduate Teaching Assistant
 * Postdoctoral Researcher
 
-**Industrial Engineering, Purdue University**, West Lafayette, IN, USA (2016 - 2018)
+**Industrial Engineering, Purdue University (2016 - 2018)**
+
+Grissom Hall, West Lafayette, IN, USA
 * Graduate Research Assistant
 * Graduate Teaching Assistant
   
