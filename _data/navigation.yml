@@ -12,8 +12,8 @@ main:
 #   url: /publications/
     url: "https://scholar.google.com/citations?user=HEnNcXUAAAAJ"
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -24,11 +24,11 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
+#   - title: "CV"
+#    url: /cv-json/
     
  # - title: "Guide"
  #   url: /markdown/
