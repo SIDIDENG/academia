@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Industrial Engineering, Purdue University, 2018 - 2023
-* M.S. in Industrial Engineering, Purdue University, 2015 - 2017
+### Ph.D in Industrial Engineering, Purdue University, 2018 - 2023
+Advisors: Dr. John W. Sutherland & Dr. Yuehwern Yih 
+### M.S. in Industrial Engineering, Purdue University, 2015 - 2017
 
 Academic Experience
 ======
