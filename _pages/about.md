@@ -9,29 +9,26 @@ redirect_from:
 
 Education
 ======
-### Ph.D in Industrial Engineering, Purdue University, 2018 - 2023
+**Ph.D in Industrial Engineering, Purdue University, 2018 - 2023**
 Advisors: Dr. John W. Sutherland & Dr. Yuehwern Yih 
-### M.S. in Industrial Engineering, Purdue University, 2015 - 2017
+**M.S. in Industrial Engineering, Purdue University, 2015 - 2017**
 
 
 Academic Experience
 ======
-### Mechanical Engineering, University of Michigan
-Ann Arbor, MI, USA (2023 - 2025)
+**Mechanical Engineering, University of Michigan**, Ann Arbor, MI, USA (2023 - 2025)
 * Postdoctoral Research Fellow
     
 [Duties includes: Updates and improvements to template]: #
 
 [Supervisor: The Users]: #
 
-### Environmental and Ecological Engineering, Purdue University
-West Lafayette, IN, USA (2023 - 2025)
+**Environmental and Ecological Engineering, Purdue University**, West Lafayette, IN, USA (2023 - 2025)
 * Graduate Research Assistant
 * Graduate Teaching Assistant
 * Postdoctoral Researcher
 
-### Industrial Engineering, Purdue University
-West Lafayette, IN, USA (2016 - 2018)
+**Industrial Engineering, Purdue University**, West Lafayette, IN, USA (2016 - 2018)
 * Graduate Research Assistant
 * Graduate Teaching Assistant
   
