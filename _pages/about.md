@@ -13,6 +13,7 @@ Education
 Advisors: Dr. John W. Sutherland & Dr. Yuehwern Yih 
 ### M.S. in Industrial Engineering, Purdue University, 2015 - 2017
 
+
 Academic Experience
 ======
 ### 2023 - 2025: Mechanical Engineering, University of Michigan
