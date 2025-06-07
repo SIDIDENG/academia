@@ -16,22 +16,22 @@ Advisors: Dr. John W. Sutherland & Dr. Yuehwern Yih
 
 Academic Experience
 ======
-### 2023 - 2025: Mechanical Engineering, University of Michigan
-Ann Arbor, MI, USA
+### Mechanical Engineering, University of Michigan
+Ann Arbor, MI, USA (2023 - 2025)
 * Postdoctoral Research Fellow
     
 [Duties includes: Updates and improvements to template]: #
 
 [Supervisor: The Users]: #
 
-### 2018 - 2023: Environmental and Ecological Engineering, Purdue University
-West Lafayette, IN, USA
+### Environmental and Ecological Engineering, Purdue University
+West Lafayette, IN, USA (2023 - 2025)
 * Graduate Research Assistant
 * Graduate Teaching Assistant
 * Postdoctoral Researcher
 
-### 2016 - 2018: Industrial Engineering, Purdue University
-West Lafayette, IN, USA
+### Industrial Engineering, Purdue University
+West Lafayette, IN, USA (2016 - 2018)
 * Graduate Research Assistant
 * Graduate Teaching Assistant
   
