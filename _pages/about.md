@@ -14,22 +14,21 @@ Education
 * Ph.D in Industrial Engineering, Purdue University, USA, 2023
 * M.S. in Industrial Engineering, Purdue University, USA, 2017
 
-
-Academic experience
+Academic Experience
 ======
-* 2023 - 2025: Mechanical Engineering, University of Michigan
+* 2023 - 2025: Mechanical Engineering, University of Michigan, Ann Arbor, MI, USA
   * Postdoctoral Research Fellow
     
   [Duties includes: Updates and improvements to template]: #
 
   [Supervisor: The Users]: #
 
-* 2018 - 2023: Environmental and Ecological Engineering, Purdue University
+* 2018 - 2023: Environmental and Ecological Engineering, Purdue University, West Lafayette, IN, USA
   * Graduate Research Assistant
   * Graduate Teaching Assistant
   * Postdoctoral Researcher
 
-* 2016 - 2018: Environmental and Ecological Engineering, Purdue University
+* 2016 - 2018: Industrial Engineering, Purdue University, West Lafayette, IN, USA
   * Graduate Research Assistant
   * Graduate Teaching Assistant
   
