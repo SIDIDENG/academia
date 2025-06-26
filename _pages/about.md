@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+Assistant Professor
+
+Thomas J. Watson College of Engineering and Applied Science
+
+The State University of New York at Binghamton
+
+
 Education
 ======
 **Ph.D in Industrial Engineering, Purdue University, 2018 - 2023**
