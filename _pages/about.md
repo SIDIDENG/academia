@@ -13,6 +13,12 @@ Thomas J. Watson College of Engineering and Applied Science
 
 The State University of New York at Binghamton
 
+Fields of Research
+======
+* Simulation Modeling and Analysis
+* Complex Systems Modeling and Analysis
+* Applied Statistics
+* Physics-Informed Machine learning
 
 Education
 ======
@@ -47,12 +53,6 @@ Grissom Hall, West Lafayette, IN, USA
 * Graduate Research Assistant
 * Graduate Teaching Assistant
   
-Fields of Research
-======
-* Simulation Modeling and Analysis
-* Complex Systems Modeling and Analysis
-* Applied Statistics
-* Physics-Informed Machine learning
 
 <!-- This entire section is commented out and won't appear in the rendered output.
 
