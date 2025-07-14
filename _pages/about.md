@@ -22,7 +22,7 @@ Fields of Research
 
 Education
 ======
-**Ph.D in Industrial Engineering, Purdue University, 2018 - 2023**
+**Ph.D. in Industrial Engineering, Purdue University, 2018 - 2023**
 
 Advisors: Dr. John W. Sutherland & Dr. Yuehwern Yih
 
