@@ -22,15 +22,19 @@ Fields of Research
 
 Education
 ======
-**Ph.D. in Industrial Engineering, Purdue University, 2018 - 2023**
+**Ph.D. in Industrial Engineering, Purdue University, 2018 - 2023** (GPA 4.0)
 
 Advisors: Dr. John W. Sutherland & Dr. Yuehwern Yih
 
-**M.S. in Industrial Engineering, Purdue University, 2015 - 2017**
+**M.S. in Industrial Engineering, Purdue University, 2015 - 2017** (GPA 3.84)
 
 
 Academic Experience
 ======
+**Engineering Design Division, State University of New York at Binghamton, 2025 - Now**
+
+Glenn G. Bartle Library, #2200, Binghamton, NY, USA
+
 **Mechanical Engineering, University of Michigan (2023 - 2025)**
 
 G.G. Brown Laboratory, Ann Arbor, MI, USA
