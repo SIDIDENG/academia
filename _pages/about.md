@@ -34,11 +34,12 @@ Academic Experience
 **Engineering Design Division, State University of New York at Binghamton, 2025 - Now**
 
 Glenn G. Bartle Library, Binghamton, NY, USA
+* Assistant Professor
 
 **Mechanical Engineering, University of Michigan (2023 - 2025)**
 
 G.G. Brown Laboratory, Ann Arbor, MI, USA
-* Postdoctoral Research Fellow
+* Postdoctoral Research Fellow (Supervisor: Daniel R. Cooper)
     
 [Duties includes: Updates and improvements to template]: #
 
