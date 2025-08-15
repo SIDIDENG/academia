@@ -39,7 +39,7 @@ Glenn G. Bartle Library, Binghamton, NY, USA
 **Mechanical Engineering, University of Michigan (2023 - 2025)**
 
 G.G. Brown Laboratory, Ann Arbor, MI, USA
-* Postdoctoral Research Fellow (Supervisor: Daniel R. Cooper)
+* Postdoctoral Research Fellow (Supervisor: Dr. Daniel R. Cooper)
     
 [Duties includes: Updates and improvements to template]: #
 
