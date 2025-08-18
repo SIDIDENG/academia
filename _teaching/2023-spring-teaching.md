@@ -1,5 +1,5 @@
 ---
-title: "Sustainable Manufacturing"
+title: "EEE 695 - Sustainable Manufacturing"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-spring-teaching
