@@ -31,7 +31,7 @@ Advisors: Dr. John W. Sutherland & Dr. Yuehwern Yih
 
 Academic Experience
 ======
-**Engineering Design Division, State University of New York at Binghamton, 2025 - Now**
+**Engineering Design Division, State University of New York at Binghamton (2025 - Now)**
 
 Assistant Professor
 
