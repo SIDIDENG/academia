@@ -33,28 +33,22 @@ Academic Experience
 ======
 **Engineering Design Division, State University of New York at Binghamton, 2025 - Now**
 
-Glenn G. Bartle Library, Binghamton, NY, USA
-* Assistant Professor
+Assistant Professor
 
-**Mechanical Engineering, University of Michigan (2023 - 2025)**
+**Mechanical Engineering, University of Michigan - Ann Arbor (2023 - 2025)**
 
-G.G. Brown Laboratory, Ann Arbor, MI, USA
-* Postdoctoral Research Fellow (Supervisor: Dr. Daniel R. Cooper)
+Postdoctoral Research Fellow (Supervisor: Dr. Daniel R. Cooper)
     
 [Duties includes: Updates and improvements to template]: #
 
 [Supervisor: The Users]: #
 
-**Environmental and Ecological Engineering, Purdue University (2018 - 2023)**
-
-Potter Engineering Center, West Lafayette, IN, USA
+**Environmental and Ecological Engineering, Purdue University - West Lafayette (2018 - 2023)**
 * Graduate Research Assistant
 * Graduate Teaching Assistant
 * Postdoctoral Researcher
 
-**Industrial Engineering, Purdue University (2016 - 2018)**
-
-Grissom Hall, West Lafayette, IN, USA
+**Industrial Engineering, Purdue University - West Lafayette (2016 - 2018)**
 * Graduate Research Assistant
 * Graduate Teaching Assistant
   
