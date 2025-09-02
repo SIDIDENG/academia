@@ -18,7 +18,8 @@ Fields of Research
 * Simulation Modeling and Analysis
 * Complex Systems Modeling and Analysis
 * Applied Statistics
-* Physics-Informed Machine learning
+* Physics-Informed Machine Learning
+* Industrial Ecology and Sustainable Engineering
 
 Education
 ======
