@@ -16,8 +16,8 @@ The State University of New York at Binghamton
 Fields of Research
 ======
 * Simulation Modeling and Analysis
-* Complex Systems Modeling and Analysis
-* Applied Statistics
+* Network-Based Complex Systems
+* Applied Statistics and Data Analysis
 * Physics-Informed Machine Learning
 * Industrial Ecology and Sustainable Engineering
 
